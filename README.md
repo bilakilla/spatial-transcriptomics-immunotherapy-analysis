@@ -93,8 +93,8 @@ This analysis explores potential cell-cell interactions between cell populations
 ### Figure Generation
 Plots were generated in Python and exported as vector PDFs for editing in <b>Adobe Illustrator</b>. 
 These parameters were used to ensure .pdf files had editable text and vectors:<br>
-1. plt.rcParams['pdf.fonttype'] = 42<br>
-2. plt.rcParams['ps.fonttype'] = 42<br>
+- `plt.rcParams['pdf.fonttype'] = 42`<br>
+- `plt.rcParams['ps.fonttype'] = 42`<br>
 
 Post-processing included:
 - assembling multi-panel figures
