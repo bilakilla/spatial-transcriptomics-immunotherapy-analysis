@@ -73,6 +73,7 @@ Exploratory analysis of clinical trial outcomes:
 `fgsea_figs.ipynb`
 
 <img width="2103" height="877" alt="image" src="https://github.com/user-attachments/assets/f6b5c3c2-d277-4972-bda5-544809d1b930" />
+
 - Generates visualisations used to present gene set enrichment results
 
 ### Neighbourhood and Spatial Niche Analysis
