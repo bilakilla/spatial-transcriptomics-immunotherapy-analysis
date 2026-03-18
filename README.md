@@ -25,7 +25,7 @@ All analyses in this repository were used to generate the figures and results pr
 - Compositional cell type analysis (scCODA)
 - Differential gene expression (PyDESeq2)
 - Gene set enrichment analysis (fgsea)
-- Spatial neighbourhood analysis
+- Spatial neighbourhood analysis (squidpy)
 - Cell–cell communication inference (CellPhoneDB, LIANA)
 
 ## Repository Structure
@@ -105,6 +105,7 @@ Post-processing included:
 
 ### Python 
 - scanpy / AnnData
+- squidpy
 - scCODA
 - PyDESeq2
 - LIANA
