@@ -54,6 +54,7 @@ Exploratory analysis of clinical trial outcomes:
 `umap_matrixplot.ipynb`
 
 <img width="2149" height="788" alt="image" src="https://github.com/user-attachments/assets/ae45f39f-5214-4e42-8ea1-a134a846835e" />
+
 - Generates UMAP embeddings to visualise cell type distribution
 - Produces matrix plots showing mean gene expression across cell populations
 
