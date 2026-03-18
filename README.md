@@ -21,7 +21,7 @@ The analysis integrates spatial transcriptomics, compositional analysis, differe
 All analyses in this repository were used to generate the figures and results presented in the thesis.
 
 ## Key Methods
-- Spatial transcriptomics analysis
+- Spatial transcriptomics analysis (scanpy, AnnData)
 - Compositional cell type analysis (scCODA)
 - Differential gene expression (PyDESeq2)
 - Gene set enrichment analysis (fgsea)
