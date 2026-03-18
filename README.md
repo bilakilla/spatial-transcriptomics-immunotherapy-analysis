@@ -43,9 +43,9 @@ Merges AnnData with clinical metadata and performs quality control filtering, in
 `ICI_intro_stats_trials.ipynb`
 
 Exploratory analysis of clinical trial outcomes:
-- summarises descriptive statistics from
-  - CheckMate-067
-  - RELATIVITY-047
+- summarises descriptive statistics from two seminal clinical trials:
+  - CheckMate-067 (anti-PD-1 + anti-CTLA-4)
+  - RELATIVITY-047 (anti-PD-1 + anti-LAG-3)
 - visualises treatment response and toxicity for:
   - first-line therapy (anti-CTLA-4 + anti-PD-1)
   - second-line therapy (anti-LAG-3 + anti-PD-1)
@@ -84,10 +84,13 @@ Key steps include:
 - identifying distinct spatial niches associated with responders and non-responders
 
 ### Cell-Cell Communication Analysis
-`liana_ccc.ipynb` <br>
-- Infers ligand-receptor interactions in spatial niches using:
-  - <b>CellPhoneDB (v2)</b>
-  - <b>LIANA v1.6.1</b><br>
+`liana_ccc.ipynb`
+
+Infers ligand-receptor interactions in spatial niches using:
+
+- <b>CellPhoneDB (v2)</b>
+- <b>LIANA v1.6.1</b>
+
 This analysis explores potential cell-cell interactions between cell populations associated with treatment response.
 
 ### Figure Generation
